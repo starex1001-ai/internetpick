@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "인터넷픽",
+  "brand": "INTERNETPICK",
+  "mark": "IN",
+  "worker": "internetpick",
+  "url": "https://internetpick.webnote-lab.workers.dev",
+  "description": "인터넷픽의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "인터넷픽, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "인터넷픽의 정보와 실용 가이드를 정리합니다.",
+      "name": "인터넷픽",
+      "slug": "internetpick"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/internetpick/issues"
+}
